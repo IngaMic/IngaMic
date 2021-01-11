@@ -1,6 +1,6 @@
 - Currently working on [doggy training app!](https://github.com/IngaMic/doggy-app)
 
-- 🌱 I’m currently learning **TypeScript and improoving my MERN skills**
+- 🌱 I’m currently learning **TypeScript and improving my MERN skills**
 
 - 📫 How to reach me **ingeramich@gmail.com**
 
