@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **ingeramich@gmail.com**
 
-
-</br>
 </br>
 </br>
 <h3 align="left">Main Languages and Tools:</h3>
@@ -27,5 +25,10 @@
 <a href="https://www.linkedin.com/in/ingamic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ingamic/" height="30" width="40" /></a>
 </p>
 </br>
+</br>
+</br>
 
+ 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=ingamic.README.md)
+ 
+ 
