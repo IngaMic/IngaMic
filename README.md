@@ -1,6 +1,6 @@
-- Currently working as a junior developer with an amazing team.
+- 🌱  I'm a junior developer working in a web/design and advertising agency, building and maintaining several applications.
 
-- 🌱 I’m **improving my TypeScript and NextJS skills**, so there might be lot's of tiny projects built in order to practice.
+- Recently I've been focusing on **TypeScript and NextJS**, so there might be lot's of tiny projects built in order to practice.
 
 - 📫 How to reach me **ingeramich@gmail.com**
 
