@@ -1,6 +1,6 @@
 ## Hello, thanks for stopping by!
 
-- 🌱  I'm a junior developer working in a web/design and advertising agency.
+- 🌱  I'm a React developer, working at a <a href="www.enpal.de" target="_blank"> renewable energy company   <img src="https://assets-global.website-files.com/5e870ec047674e044920655e/630cab0030719b00125b0742_enpal-logo.svg" alt="Enpal Logo" class="image-61" width="90" height="16"> </a>
 
 - Recently I've been focusing on **TypeScript and NextJS**, so there might be lot's of tiny projects built in order to practice.
 
